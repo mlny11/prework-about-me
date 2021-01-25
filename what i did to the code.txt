@@ -1,3 +1,0 @@
-Fixed the header as the h2 code wasnt there, fixed the link to the wikepedia site
-add an < to the image.I seperated the paragraphs in boo's bio.I then listed boo's favorite things.
-i rewrote the link to the java from error. I matched the Id's of the buttons and text to the java commonds.I added a greater than sign at the end of an img.Added hastags to the javascriipt,
